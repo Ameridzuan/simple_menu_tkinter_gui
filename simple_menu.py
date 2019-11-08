@@ -1,3 +1,5 @@
+#From https://github.com/Ameridzuan
+
 from Tkinter import *
 
 class GUI_Menu:
